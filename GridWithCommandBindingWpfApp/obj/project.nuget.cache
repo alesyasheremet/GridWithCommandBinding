@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "NI3r+cRqWltMupDJGbro5oi+1Wd+F4VRpJZIsNMA8Ho9M7V+QqnVZ05h3sgANicF3DSyVeauviugAFs1l//qHg==",
+  "success": true,
+  "projectFilePath": "C:\\projects\\GridWithCommandBindingWpfApp\\GridWithCommandBindingWpfApp\\GridWithCommandBindingWpfApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512"
+  ],
+  "logs": []
+}
